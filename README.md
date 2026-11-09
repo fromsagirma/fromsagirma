@@ -70,8 +70,8 @@ I enjoy turning ideas into working products, from the React interface to the API
 ## 🌱 Currently
 
 - 🔭 Building full-stack projects with React, Node.js and PostgreSQL
-- 📚 Learning Docker, testing and clean API design
-- 🎯 Looking for a full-stack internship
+- 📚 Learning Full-stack Developemnt beyond it's surface level 
+- 🎯 Looking for a full-stack Position to Grow
 
 ---
 
