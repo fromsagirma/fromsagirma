@@ -67,12 +67,11 @@ I enjoy turning ideas into working products, from the React interface to the API
 
 ---
 
-## 📊 GitHub Stats
+## 🌱 Currently
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fromsagirma&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fromsagirma&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
+- 🔭 Building full-stack projects with React, Node.js and PostgreSQL
+- 📚 Learning Docker, testing and clean API design
+- 🎯 Looking for a full-stack internship
 
 ---
 
